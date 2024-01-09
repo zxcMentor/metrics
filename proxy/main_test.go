@@ -1,7 +1,7 @@
 package main
 
 import (
-	"geoservicemetrics/proxy/internal/service"
+	"metricsProm/proxy/internal/service"
 	"testing"
 )
 
